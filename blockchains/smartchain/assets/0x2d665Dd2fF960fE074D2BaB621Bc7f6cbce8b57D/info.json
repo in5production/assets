@@ -1,1 +1,11 @@
-
+{
+  "name": "MARS Coin",
+  "symbol": "MARS",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "MARS Coin is a burnable utility token deployed on BNB Smart Chain, designed to fuel future DeFi, GameFi, and Mars-themed projects.",
+  "website": "https://marsbsc.com",
+  "explorer": "https://bscscan.com/token/0x2d665Dd2fF960fE074D2BaB621Bc7f6cbce8b57D",
+  "status": "active",
+  "id": "0x2d665Dd2fF960fE074D2BaB621Bc7f6cbce8b57D"
+}
